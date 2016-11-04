@@ -1,0 +1,11 @@
+C:\Users\Miki\Desktop\Nick's Project\GeophyTest\bin\Debug\GeophyTest.dll
+C:\Users\Miki\Desktop\Nick's Project\GeophyTest\bin\Debug\GeophyTest.pdb
+C:\Users\Miki\Desktop\Nick's Project\GeophyTest\bin\Debug\GPSDataWithList.exe
+C:\Users\Miki\Desktop\Nick's Project\GeophyTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Miki\Desktop\Nick's Project\GeophyTest\bin\Debug\CsvHelper.dll
+C:\Users\Miki\Desktop\Nick's Project\GeophyTest\bin\Debug\GPSDataWithList.pdb
+C:\Users\Miki\Desktop\Nick's Project\GeophyTest\bin\Debug\CsvHelper.pdb
+C:\Users\Miki\Desktop\Nick's Project\GeophyTest\bin\Debug\CsvHelper.xml
+C:\Users\Miki\Desktop\Nick's Project\GeophyTest\obj\Debug\GeophyTest.csprojResolveAssemblyReference.cache
+C:\Users\Miki\Desktop\Nick's Project\GeophyTest\obj\Debug\GeophyTest.dll
+C:\Users\Miki\Desktop\Nick's Project\GeophyTest\obj\Debug\GeophyTest.pdb

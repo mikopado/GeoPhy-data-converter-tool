@@ -1,0 +1,35 @@
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\bin\Debug\GPSDataWithList.exe.config
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\bin\Debug\GPSDataWithList.exe
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\bin\Debug\GPSDataWithList.pdb
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.csprojResolveAssemblyReference.cache
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.GPSData.resources
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.Properties.Resources.resources
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.csproj.GenerateResource.Cache
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.exe
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.pdb
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\bin\Debug\AlphanumericSort.dll
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\bin\Debug\AlphanumericSort.pdb
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.CustomMessageForm.resources
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.InsertTextForm.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\bin\Debug\GPSDataWithList.exe.config
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.exe
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.pdb
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\bin\Debug\GPSDataWithList.exe
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\bin\Debug\GPSDataWithList.pdb
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.csprojResolveAssemblyReference.cache
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.CustomMessageForm.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.GPSData.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.InsertTextForm.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.Properties.Resources.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.csproj.GenerateResource.Cache
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\bin\Debug\CsvHelper.dll
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\bin\Debug\CsvHelper.pdb
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\bin\Debug\CsvHelper.xml
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.csproj.ResolveComReference.cache
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\bin\Debug\FileHelpers.dll
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\bin\Debug\FileHelpers.ExcelNPOIStorage.dll
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\bin\Debug\FileHelpers.xml
+D:\IT Miki\C#\Projects for Apps\Nick's Project\Code\GPSDataWithList\bin\Debug\FileHelpers.ExcelNPOIStorage.xml
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.csproj.ResolveComReference.cache
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\bin\Debug\CsvHelper.pdb
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\bin\Debug\CsvHelper.xml

@@ -1,0 +1,14 @@
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\bin\Debug\GPSDataWithList.exe.config
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\bin\Debug\GPSDataWithList.exe
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\bin\Debug\GPSDataWithList.pdb
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\bin\Debug\CsvHelper.pdb
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\bin\Debug\CsvHelper.xml
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GeoPhy.csprojResolveAssemblyReference.cache
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GeoPhy.csproj.ResolveComReference.cache
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\Geophy.CustomMessageForm.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\Geophy.GeophyData.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\Geophy.InsertTextForm.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.Properties.Resources.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GeoPhy.csproj.GenerateResource.Cache
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.exe
+C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.pdb
