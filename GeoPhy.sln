@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeophyTest", "GeophyTest\GeophyTest.csproj", "{7C8DBBB1-918F-4BA9-A02E-2EDF57FB9A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoPhy", "GeoPhyGPS\GeoPhy.csproj", "{5ECD9405-B017-4C42-9DD3-016979B195B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C8DBBB1-918F-4BA9-A02E-2EDF57FB9A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8DBBB1-918F-4BA9-A02E-2EDF57FB9A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8DBBB1-918F-4BA9-A02E-2EDF57FB9A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8DBBB1-918F-4BA9-A02E-2EDF57FB9A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECD9405-B017-4C42-9DD3-016979B195B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECD9405-B017-4C42-9DD3-016979B195B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECD9405-B017-4C42-9DD3-016979B195B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECD9405-B017-4C42-9DD3-016979B195B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

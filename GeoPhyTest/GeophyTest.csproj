@@ -55,7 +55,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Code\GPSDataWithList\GeoPhy.csproj">
+    <ProjectReference Include="..\GeoPhyGPS\GeoPhy.csproj">
       <Project>{5ecd9405-b017-4c42-9dd3-016979b195b1}</Project>
       <Name>GeoPhy</Name>
     </ProjectReference>

@@ -12,3 +12,31 @@ C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithL
 C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GeoPhy.csproj.GenerateResource.Cache
 C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.exe
 C:\Users\Miki\Desktop\Nick's Project\Code\GPSDataWithList\obj\Debug\GPSDataWithList.pdb
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\obj\Debug\GeoPhy.csprojResolveAssemblyReference.cache
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\obj\Debug\GeoPhy.csproj.ResolveComReference.cache
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\obj\Debug\Geophy.CustomMessageForm.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\obj\Debug\Geophy.GeophyData.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\obj\Debug\Geophy.InsertTextForm.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\obj\Debug\GPSDataWithList.Properties.Resources.resources
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\obj\Debug\GeoPhy.csproj.GenerateResource.Cache
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\obj\Debug\GPSDataWithList.pdb
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\bin\Debug\GPSDataWithList.exe.config
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\bin\Debug\GPSDataWithList.exe
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\bin\Debug\GPSDataWithList.pdb
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\bin\Debug\CsvHelper.pdb
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\bin\Debug\CsvHelper.xml
+C:\Users\Miki\Desktop\Nick's Project\Code\GeoPhyGPS\obj\Debug\GPSDataWithList.exe
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\bin\Debug\GPSDataWithList.exe.config
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\bin\Debug\GPSDataWithList.exe
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\bin\Debug\GPSDataWithList.pdb
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\bin\Debug\CsvHelper.pdb
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\bin\Debug\CsvHelper.xml
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\obj\Debug\GeoPhy.csprojResolveAssemblyReference.cache
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\obj\Debug\GeoPhy.csproj.ResolveComReference.cache
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\obj\Debug\Geophy.CustomMessageForm.resources
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\obj\Debug\Geophy.GeophyData.resources
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\obj\Debug\Geophy.InsertTextForm.resources
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\obj\Debug\GPSDataWithList.Properties.Resources.resources
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\obj\Debug\GeoPhy.csproj.GenerateResource.Cache
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\obj\Debug\GPSDataWithList.exe
+C:\Users\Miki\Desktop\Coding\GeoPhy-data-converter-tool\GeoPhyGPS\obj\Debug\GPSDataWithList.pdb

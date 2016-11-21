@@ -197,7 +197,7 @@ namespace Geophy
             IsEditMode(false);
             WholeDataFile = Methods.FlattenLists(Methods.LinesCollection);
             lblCountPoints.Visible = true;
-            lblCountPoints.Text = WholeDataFile.Count.ToString();
+            lblCountPoints.Text = WholeDataFile.Count.ToString() + " data points";
             
             defaultDgv.DataSource = null;
             defaultDgv.DataSource = WholeDataFile;
